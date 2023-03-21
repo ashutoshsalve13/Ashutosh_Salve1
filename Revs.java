@@ -2,7 +2,7 @@ class Revs
 {
 public static void main(String[] args)
 {
-String A = "ashutosH";
+String A = "AshutosH";
 String rev = "";
 int a;
 for(a = A.length() - 1; a >= 0; a--)
