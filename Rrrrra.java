@@ -13,7 +13,7 @@ System.out.println("done");
 }
 public static void main(String[] args)
 {
-Rrrrra G = new Rrrrra(10 , 20);
+Rrrrra G = new Rrrrra(30 , 20);
 G.play();
 }
 }
